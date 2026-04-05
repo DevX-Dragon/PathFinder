@@ -2,7 +2,7 @@
 I made this PCB Fidget toy cause why not?. It helps me releive my stress as I suffer alot of school stress. It has keys and leds which powered by the xiao rp2040. It has multiple animations and stuff you could play with!.
 
 ## Layout
-<img width="416" height="332" alt="Schematics" src="https://github.com/user-attachments/assets/a02cf621-9e5e-4471-b77f-611ee99feb4c" />
+<img width="400" height="338" alt="image" src="https://github.com/user-attachments/assets/ff3bacdd-0689-4660-beca-ce171197e73a" />
 <img width="433" height="537" alt="PCB" src="https://github.com/user-attachments/assets/7b99e6aa-9ec8-4207-9327-26dba38c7e43" />
 <img width="627" height="386" alt="PCB 3d" src="https://github.com/user-attachments/assets/88e631ff-506f-4739-8cbd-efa9a3ecd2bc" />
 
