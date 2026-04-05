@@ -1,5 +1,5 @@
 # Path Finder
-A PCB fidget toy for when you're stressed and a electornics engineer.
+I made this PCB Fidget toy cause why not?. It helps me releive my stress as I suffer alot of school stress. It has keys and leds which powered by the xiao rp2040. It has multiple animations and stuff you could play with!.
 
 ## Layout
 <img width="416" height="332" alt="Schematics" src="https://github.com/user-attachments/assets/a02cf621-9e5e-4471-b77f-611ee99feb4c" />
